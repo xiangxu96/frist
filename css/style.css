@@ -1,0 +1,119 @@
+*{margin: 0;padding: 0 auto;}
+.wp{
+    float: left;
+    margin:0 auto;
+}
+
+.header{
+    width:1000px;
+    margin:0 auto;
+    height:86px;
+    background: #ffffff;
+}
+.logo{
+    float: left;
+}
+.shouye{
+    float: right;
+    height:36px;
+    line-height: 36px;
+    padding:20px;
+}
+.shouye a{
+    color:#333333;
+    text-decoration: none;
+}
+.shouye a:hover{
+    color:blue;
+}
+/*导航*/
+.daohang{
+    height:34px;
+    width: 981px;
+    margin:0 auto;
+    background: url("../images/daohang.jpg")repeat-x;
+}
+.daohang li{
+    float: left;
+    list-style: none;
+    line-height: 31px;/*不等于背景的34是因为背景切图出现问题*/
+    padding:0px 10px;
+}
+.daohang li:hover{
+    background: red;
+}
+.daohang a{
+    color:#ffffff;
+    text-decoration: none;
+    font-size: 14px;
+}
+.pic{
+    width:981px;
+    margin: 0 auto;
+}
+.zw{
+    width:1000px;
+    margin:0 auto;
+}
+.left{
+    float: left;
+    width:550px;
+}
+.jieshao{
+    width:550px;
+    height:260px;
+}
+.zuo {
+    float: left;
+}
+.you{
+    float: right;
+}
+.you a{
+    color:#666666;
+    font-size: 20px;
+    text-decoration: none;
+}
+.you a:hover{
+    color:blue;
+}
+.h3{
+    float: left;
+}
+.h4{
+   float: left;
+    padding: 10px 15px;
+    color: #666666;
+}
+.right{
+    float: right;
+    width:430px;
+    height:520px;
+}
+.news{
+    width:550px;
+    height:260px;
+}
+.h5{
+    float: left;
+    width:550px;
+    line-height: 25px;
+}
+.h5 a{
+    text-decoration: none;
+    color: #666666;
+}
+.h5 a:hover{
+    color: blue;
+}
+.h5  ul li span{
+    clear: left;
+    float: right;
+    color:#990000;
+}
+.buttom{
+    width:981px;
+    margin: 0 auto;
+}
+
+
